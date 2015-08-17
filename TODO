@@ -1,6 +1,4 @@
 Tests temporarily disabled for JS:
-
- * ArbitrarySpecification (failure)
  * commands/CommandsSpecification (exceptions)
  * examples/IntMapSpec (exceptions)
  * examples/StringUtils (failure)
